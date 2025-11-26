@@ -1,0 +1,6 @@
+id,full_name,preferred_name,email,phone,role,department,location,tags
+1,John Smith,John,john.smith@company.com,+1-555-0101,Manager,Sales,New York,"leadership,sales,management"
+2,Emily Davis,Emily,emily.davis@company.com,+1-555-0102,Developer,Engineering,San Francisco,"python,javascript,web-dev"
+3,Michael Brown,Mike,mike.brown@company.com,+1-555-0103,Analyst,Marketing,Chicago,"analytics,data-viz,excel"
+4,Sarah Wilson,Sarah,sarah.wilson@company.com,+1-555-0104,Designer,Creative,Los Angeles,"ui-ux,photoshop,figma"
+5,David Lee,David,david.lee@company.com,+1-555-0105,Engineer,Engineering,Seattle,"java,backend,databases"

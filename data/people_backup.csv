@@ -1,0 +1,9 @@
+id,full_name,preferred_name,email,phone,role,department,location,tags
+1,Ayush Sharma,Ayush,ayush.sharma@university.edu,+91-9876543210,Student,Computer Science,Delhi Campus,"ml,python,ai"
+2,Aayush Jain,Aayush,aayush.jain@university.edu,+91-9876543211,Student,Data Science,Delhi Campus,"statistics,r,analytics"
+3,Dr. Priya Patel,Priya,priya.patel@university.edu,+91-9876543212,Professor,Computer Science,Mumbai Office,"algorithms,theory,research"
+4,Rahul Kumar,Rahul,rahul.kumar@university.edu,+91-9876543213,Data Analyst,Data Science,Delhi Campus,"sql,tableau,business-intelligence"
+5,Sarah Johnson,Sarah,sarah.johnson@university.edu,+91-9876543214,Research Assistant,Computer Science,Mumbai Office,"nlp,deep-learning,pytorch"
+6,Vikram Singh,Vikram,vikram.singh@university.edu,+91-9876543215,Professor,Data Science,Delhi Campus,"machine-learning,statistics,python"
+7,Anita Desai,Anita,anita.desai@university.edu,+91-9876543216,Student,Computer Science,Mumbai Office,"web-development,javascript,react"
+8,Michael Chen,Mike,michael.chen@university.edu,+91-9876543217,Data Analyst,Data Science,Mumbai Office,"visualization,python,pandas"

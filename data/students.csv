@@ -1,0 +1,5 @@
+id,full_name,preferred_name,email,phone,role,department,location,tags
+1,Alice Johnson,Alice,alice.j@university.edu,+1-555-2001,Student,Mathematics,Campus North,"calculus,algebra,statistics"
+2,Bob Martinez,Bob,bob.m@university.edu,+1-555-2002,Student,Physics,Campus South,"quantum,mechanics,research"
+3,Carol Zhang,Carol,carol.z@university.edu,+1-555-2003,Graduate Student,Computer Science,Campus East,"machine-learning,python,ai"
+4,Daniel Kim,Dan,daniel.k@university.edu,+1-555-2004,Student,Chemistry,Campus West,"organic,lab-work,research"
